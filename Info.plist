@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDisplayName</key><string>DualCam LC</string>
+  <key>CFBundleName</key><string>DualCamLC</string>
+  <key>CFBundleIdentifier</key><string>com.lc.dualcamlc</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>NSCameraUsageDescription</key><string>DualCam LC necesita acceder a las cámaras frontal y trasera para tomar fotografías simultáneas.</string>
+  <key>NSPhotoLibraryAddUsageDescription</key><string>DualCam LC guarda tus fotografías en la app Fotos.</string>
+  <key>NSPhotoLibraryUsageDescription</key><string>DualCam LC necesita permiso para guardar fotografías en Fotos.</string>
+  <key>UILaunchScreen</key><dict/>
+  <key>UIUserInterfaceStyle</key><string>Dark</string>
+</dict>
+</plist>
